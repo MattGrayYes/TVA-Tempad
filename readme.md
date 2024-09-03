@@ -5,7 +5,7 @@ Watching the Loki TV series, I spotted the little handheld folding computer thin
 
 I documented my build progress in this YouTube video:
 
-###[I made a Marvel prop from Loki, and Deadpool & Wolverine!](https://www.youtube.com/watch?v=B-IjAkmit-Q)
+### 📺 [I made a Marvel prop from Loki, and Deadpool & Wolverine!](https://www.youtube.com/watch?v=B-IjAkmit-Q)
 [![YouTube video thumbnail, very similar to the previous image, but with a photos of me, deadpool and wolverine overlaid, and text saying "it works!"](Images/Youtube%20Thumbnail.jpg?raw=true)](https://www.youtube.com/watch?v=B-IjAkmit-Q)
 
 ## Hardware
