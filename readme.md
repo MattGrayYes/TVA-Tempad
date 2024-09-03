@@ -1,4 +1,6 @@
 # My Interpretation of Marvel's TVA Tempad
+Hi, I'm Matt Gray. You may know me from my work with Tom Scott, The Technical Difficulties, Matt Gray is Trying, or even as a broadcast engineer working in radio and TV.
+
 Watching the Loki TV series, I spotted the little handheld folding computer thing that the Time Variance Authority use and liked the look of it. After a quick search, I couldnt see anyone else who had made a replica with a working screen, so decided I should have a go!
 
 ![Photo of the finished product Tempad, showing a branching timeline on screen](Images/Tempad.jpg?raw=true)
@@ -25,5 +27,6 @@ I've exported the models as:
 * 3MF files for BambuStudio, with multimaterial and support information.
 * generic STL files.
 
-Here's a render of what the 3D model would look like if made out of metal:
+Here's a render of what the 3D model would look like if it was made out of metal:
+
 ![Render of my Tempad 3D model, shiny metal on a grey void background](Images/Tempad%20Render.jpg?raw=true)
