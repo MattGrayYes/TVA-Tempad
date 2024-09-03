@@ -1,6 +1,12 @@
-# TVA Tempad
-Code for my TVA Tempad prop replica
+# My Interpretation of Marvel's TVA Tempad
+Watching the Loki TV series, I spotted the little handheld folding computer thing that the Time Variance Authority use and liked the look of it. After a quick search, I couldnt see anyone else who had made a replica with a working screen, so decided I should have a go!
 
+![Photo of the finished product Tempad, showing a branching timeline on screen](Images/Tempad.jpg?raw=true)
+
+I documented my build progress in this YouTube video:
+
+###[I made a Marvel prop from Loki, and Deadpool & Wolverine!](https://www.youtube.com/watch?v=B-IjAkmit-Q)
+[![YouTube video thumbnail, very similar to the previous image, but with a photos of me, deadpool and wolverine overlaid, and text saying "it works!"](Images/Youtube%20Thumbnail.jpg?raw=true)](https://www.youtube.com/watch?v=B-IjAkmit-Q)
 
 ## Hardware
 *  [Pimoroni Pico Lipo 16Mb](https://shop.pimoroni.com/products/pimoroni-pico-lipo?variant=39335427080275), running [CircuitPython 9.1.1](https://circuitpython.org/board/pimoroni_picolipo_16mb/)
@@ -18,3 +24,6 @@ I've exported the models as:
 
 * 3MF files for BambuStudio, with multimaterial and support information.
 * generic STL files.
+
+Here's a render of what the 3D model would look like if made out of metal:
+![Render of my Tempad 3D model, shiny metal on a grey void background](Images/Tempad%20Render.jpg?raw=true)
