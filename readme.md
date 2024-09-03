@@ -1,5 +1,5 @@
 # My Interpretation of Marvel's TVA Tempad
-Hi, I'm [Matt Gray](https://mattg.co.uk). You may know me from my work with Tom Scott, The Technical Difficulties, Matt Gray is Trying, or even as a broadcast engineer working in radio and TV.
+Hi, I'm [Matt Gray](https://mattg.co.uk). You may know me from [my YouTube channel](https://youtube.com/mattgrayyes), my work with [Tom Scott](https://tomscott.com) and [The Technical Difficulties](https://techdif.co.uk), or even as a [broadcast engineer](https://unnamed.media) working in radio and TV.
 
 Watching the Loki TV series, I spotted the little handheld folding computer thing that the Time Variance Authority use and liked the look of it. After a quick search, I couldnt see anyone else who had made a replica with a working screen, so decided I should have a go!
 
