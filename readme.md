@@ -18,7 +18,7 @@ I documented my build progress in this YouTube video:
 With SPI pin number changes, it should work on most CircuitPython boards.
 
 ## 3D Printing
-I've printed all the parts successfuly both with the [Bambu Lab A1 Combo](https://shareasale.com/r.cfm?b=2485357&u=4351340&m=138211&urllink=&afftrack=) and the [Bambu Lab X1 Carbon](https://shareasale.com/r.cfm?b=2353821&u=4351340&m=138211&urllink=&afftrack=).
+I've printed all the parts successfuly both with the [Bambu Lab A1 Combo](https://shareasale.com/r.cfm?b=2485357&u=4351340&m=138211&urllink=&afftrack=) and the [Bambu Lab X1 Carbon](https://shareasale.com/r.cfm?b=2353821&u=4351340&m=138211&urllink=&afftrack=). If you don't have access to a 3D printer, there are many 3D printing services who you can send the files to, and they'll print and post them to you. Such as [PCBWay](https://www.pcbway.com/), who have sponsored many of my YouTube videos.
 
 In my final products, the base, base lid, and buttons are multi-material 3D prints.
 
